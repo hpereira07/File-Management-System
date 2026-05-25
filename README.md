@@ -126,7 +126,3 @@ However:
 Computer Systems Engineering Student  
 
 GitHub: https://github.com/hpereira07
-
----
-
-## 📂 Project Structure
